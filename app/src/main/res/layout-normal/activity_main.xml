@@ -62,7 +62,6 @@
             app:layout_constraintTop_toBottomOf="@+id/etEid" app:layout_constraintHorizontal_bias="1.0"
             android:textColor="#00bfff" android:hint="Name"/>
     <Button
-
             android:text="@string/btn_name"
             android:layout_width="0dp"
             android:layout_height="40dp"
